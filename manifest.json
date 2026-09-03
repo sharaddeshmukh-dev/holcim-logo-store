@@ -1,0 +1,17 @@
+{
+"short_name": "Holcim PWA",
+"name": "Holcim Apps Script PWA",
+"icons": [
+{
+"src": "https://raw.githubusercontent.com/sharaddeshmukh-dev/holcim-logo-store/main/logo.png",
+"type": "image/png",
+"sizes": "512x512",
+"purpose": "any maskable"
+}
+],
+"start_url": ".",
+"background_color": "#FFFFFF",
+"theme_color": "#4285F4",
+"display": "standalone",
+"orientation": "portrait"
+}
